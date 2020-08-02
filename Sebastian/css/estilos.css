@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: auto;
+    height: auto;
+}
+
+
+/* Navbar */
+
+#Navbar1 {
+    height: 35px;
+}
+
+#Navbar1 p,
+a {
+    color: whitesmoke;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+
+/* navbar2 */
+
+header {
+    width: 100%;
+    height: 18%;
+    position: fixed;
+    z-index: 100;
+}
+
+
+/* Tienda */
+
+#tienda h1,
+p {
+    text-align: center;
+}
+
+
+/* Entrega */
+
+#jum1 h3,
+h6 {
+    color: #008080;
+}
+
+#jum1 p {
+    text-align: left;
+    color: black;
+}
+
+#jumm p {
+    text-align: center;
+    color: black;
+}
+
+#imge img {
+    width: 100px;
+    height: 100px;
+    position: static;
+}
+
+#jum1 col-sm-12 {
+    text-align: center;
+}
+
+
+/* Acceder / Registrarse */
+
+#jum3 h1 {
+    color: #008080;
+    text-align: center;
+}
+
+#jum3 p {
+    color: black;
+}
+
+
+/* Contacto */
+
+footer h1 {
+    color: #008080;
+    text-align: center;
+}
+
+#cardh h3 {
+    color: white;
+}
+
+footer div {
+    color: black;
+}
+
+footer p {
+    color: black;
+}
+
+#foot p {
+    color: white;
+}
